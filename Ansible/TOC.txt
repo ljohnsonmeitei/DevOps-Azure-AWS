@@ -1,0 +1,21 @@
+Ansible - Configuration Management 
+   Introduction to Ansible 
+   Ansible vs other tools 
+   Learning YAML & Writing Playbooks 
+   Writing reusable modules using Ansible roles 
+   Ansible Facts, Syntax checking, Exception Handling 
+   Ansible loops & Conditions 
+   Static & Dynamic inventory 
+   Hosts Groups Variables & Group Variables 
+   Ansible connection types 
+   Encrypting sensitive data using Vault 
+   Ansible rolling deployments. 
+   Ad-hoc commands 
+   Writing Playbooks 
+   Automating SQL deployments 
+   Limiting playbook executions by hosts and tags 
+   Writing reusable playbooks 
+   Ansible modules 
+   Dynamic includes 
+   Including plays and tasks 
+   Dry-runs tags, Conditions loops 
