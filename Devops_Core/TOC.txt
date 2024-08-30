@@ -1,0 +1,48 @@
+Total Session Hours: 45 Hrs. 
+
+1. Introduction to DevOps 
+   What is DevOps? 
+   DevOps Responsibilities 
+   Continuous Integration 
+   Continuous Delivery & Deployments 
+   Configuration Management & Monitoring 
+   Microservices & Containerization 
+   Advantages of DevOps 
+   DevOps Jobs & Future 
+
+2. Docker - Containerization 
+   Introduction to Dockers & Microservices 
+   Docker vs VMs 
+   Microservices Architecture 
+   Monolithic applications 
+   Why Dockers & benefits 
+   Dockerizing Applications using Docker Instructions 
+   Docker Architecture & Demons 
+   Container creation and management 
+   Docker Volumes 
+   Docker Networks 
+   Dockerfile 
+   Docker Compose 
+
+3. Kubernetes In Production 
+   Introduction to Kubernetes 
+   Understanding Kubernetes architecture 
+   Setting Kubernetes cluster 
+   Kubernetes, Pod, Service, Deployment, Replica Set 
+   Deployment strategy 
+   Configmap 
+   Kubernetes Managing Secrets 
+   Kubernetes Namespaces
+   Liveness & Readiness probes 
+   Node selector 
+   Node Affinity 
+   Taints and tolerations 
+   helm for package manager 
+   Monitoring Kubernetes Nodes and Pods 
+   Networking and DNS 
+   Volumes, Persistent Volumes & Volume Claims
+   Writing reusable playbooks 
+   Ansible modules 
+   Dynamic includes 
+   Including plays and tasks 
+   Dry-runs tags, Conditions loops
