@@ -46,3 +46,36 @@ Total Session Hours: 45 Hrs.
    Dynamic includes 
    Including plays and tasks 
    Dry-runs tags, Conditions loops
+
+4. Introduction to Version Control System 
+   Git with GitHub/Bitbucket 
+   Benefits of SCM tools 
+   Installation & Configuration
+   Mattering using git for DevOps activities 
+   Clone, Push, Fetch, Revert, Reset, HEAD, Diff 
+   Reviewing and Merging with “Pull Request” 
+   Managing Branches & Branching Strategies 
+   Managing Branch permissions 
+   Git Init & Git fork 
+   Resolving Merge Conflicts using diff merge tool 
+   Merging Strategies 
+   Git Tags 
+   Stash, Rebase, Checkout & Cherry-Pick
+
+5. Maven - Build Tool 
+   Introduction to build tools 
+   Importance of build tools 
+   Going through pom.xml 
+   Working with build commands 
+   Build life cycles, Maven Plugins 
+   Understanding artifacts 
+   Maven Repositories 
+   Maven dependency management 
+   Integrating with Sonatype Nexus   
+   Integrating with Docker
+
+6. Managing Artifacts 
+   Installing Sonatype Nexus 
+   Configuring Nexus as a Service 
+   Managing maven dependencies 
+   Storing Docker Images
