@@ -1,1 +1,1 @@
-here cheatsheet for hithub will be updated
+Refer cheetsheeet for commands.
